@@ -1,0 +1,37 @@
+{
+"1": { 
+"question": "O que é que corre em volta do pasto inteiro sem se mexer?",
+"answers": ["adv_cerca", "adv_cavalo", "adv_sauva", "adv_chuva"]
+},
+
+"2": { 
+"question": "Qual é a formiga que sem a primeira sílaba vira fruta?",
+"answers": ["adv_sauva", "adv_cavalo", "adv_cerca", "adv_chuva"]
+},
+
+"3": { 
+"question": "O que aumenta no nosso aniversário?",
+"answers": ["adv_idade", "adv_bolo", "adv_amigos", "adv_presentes"]
+},
+
+"4": { 
+"question": "O que é que não tem pernas, mas sempre anda?",
+"answers": ["adv_sapato", "adv_camisa", "adv_calca", "adv_gravata"]
+},
+
+"5": { 
+"question": "O que é que vive com os pés na cabeça?",
+"answers": ["adv_piolho", "adv_formiga", "adv_borboleta", "adv_aranha"]
+},
+
+"6": { 
+"question": "O que acaba tudo com três letras?",
+"answers": ["adv_fim", "adv_ceu", "adv_rei", "adv_bau"]
+},
+
+"7": { 
+"question": "Qual é a pessoa que quando trabalha deixa qualquer um de boca aberta?",
+"answers": ["adv_dentista", "adv_professor", "adv_cientista", "adv_pintor"]
+}
+
+}
