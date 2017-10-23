@@ -10,7 +10,7 @@ You can access the itch.io link to play it on the browser (https://illusionfishe
 
 You'll need Node Package Manager to do that.
 
-1. Clone this remo (`git clone [this repo address]`).
+1. Clone this repo (`git clone [this repo address]`).
 2. Install stuff (`npm install`).
 
 Done, basically. All the code is on the `/src` folder, and unless explicitily saying otherwise, it is GPL3 licensed.
